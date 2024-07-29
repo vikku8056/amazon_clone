@@ -22,5 +22,5 @@ myamazon is a clone of the popular e-commerce platform Amazon. It is built using
 Clone the repository:
 
 ```bash
-git clone https://github.com/Ninja-Vikash/myamazon.git
+git clone https://github.com/vikku8056/amazon_clone.git
 ```
