@@ -3,7 +3,7 @@
 ---
 
 <img src="https://github.com/vikku8056/Assets/blob/main/logo/amazon.png" height="50px" align="left">
-myamazon is a clone of the popular e-commerce platform Amazon. It is built using HTML and CSS to replicate the style of the original webpage. The project is designed to be fully responsive.
+amazon_clone is a clone of the popular e-commerce platform Amazon. It is built using HTML and CSS to replicate the style of the original webpage. The project is designed to be fully responsive.
 
 ---
 
